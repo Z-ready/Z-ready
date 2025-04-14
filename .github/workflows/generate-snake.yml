@@ -12,8 +12,9 @@ on:
   push:
     branches:
     - master
-    
-  
+
+permissions:
+  contents: write  # 让 GitHub Actions 拥有推送权限
 
 jobs:
   generate:
