@@ -13,7 +13,7 @@
 <br>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=github,git,anaconda,vscode,pycharm,linux,py,pytorch,opencv&theme=light&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,anaconda,vscode,pycharm,linux,py,pytorch,opencv&theme=dark&perline=9)](https://skillicons.dev)
 
 <div align="center">
 <br>
