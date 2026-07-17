@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<h1 align="center">Ready Z</h1>
+<h1 align="center">Ryan Zhang</h1>
 
 
 
